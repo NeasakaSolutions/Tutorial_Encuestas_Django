@@ -1,0 +1,35 @@
+# Archivos de caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entorno virtual
+env/
+venv/
+ENV/
+VENV/
+
+# Configuración de editores/IDE
+.vscode/
+.idea/
+
+# Archivos de log o temporales
+*.log
+*.tmp
+*.swp
+*.bak
+
+# Archivos de bases de datos temporales
+*.sqlite3
+
+# Archivos de Django específicos
+db.sqlite3
+*.pyc
+
+# Archivos de entorno
+*.env
+
+# Archivos de compilación (si usas Cython o similares)
+build/
+dist/
+*.egg-info/
