@@ -1,0 +1,13 @@
+Correr servidor:
+    python manage.py runserver
+
+------------------------------------------------------------------------------------------
+Buscar ruta del servidor:
+    PS F:\Tutorial_Encuestas_DJango> pwd
+
+Path
+----
+F:\Tutorial_Encuestas_DJango
+
+
+PS F:\Tutorial_Encuestas_DJango> dir manage.py
